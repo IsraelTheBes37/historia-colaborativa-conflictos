@@ -1,0 +1,1 @@
+El desarrollo de Git fue iniciado por Linus Torvalds en abril de 2005 después que la licencia gratuita de BitKeeper, el sistema propietario de control de versiones usado en el desarrollo del kernel de Linux desde 2002, fue revocada para Linux.
