@@ -1,5 +1,6 @@
 El desarrollo de Git fue iniciado por Linus Torvalds en abril de 2005 después que la licencia gratuita de BitKeeper, el sistema propietario de control de versiones usado en el desarrollo del kernel de Linux desde 2002, fue revocada para Linux.
 
-Se utilizaba para el desarrollo del kernel de Linux desde 2002. Git fue diseñado como un sistema de control de versiones distribuido, de código abierto, para satisfacer las necesidades del kernel de Linux y rápidamente se convirtió en el estándar para el desarrollo.
 
- Es conocido por su versatilidad, seguridad y flexibilidad, y es ampliamente utilizado en servidores, supercomputadoras, dispositivos móviles (como los que usan Android) y como alternativa a otros sistemas operativos en computadoras personale
+Se utilizaba para el desarrollo del kernel de Linux desde 2002. Git fue diseñado como un sistema de control de versiones distribuido, de código abierto, para satisfacer las necesidades del kernel de Linux y rápidamente se convirtió en el estándar para el desarrollo
+
+Y este es el final de persona A, a ver en que lío nos metemos...
